@@ -17,3 +17,7 @@ npx playwright test
 ```
 
 Covers adding tasks (via button and Enter key), rejecting empty input, marking complete, deleting, and persistence across a reload.
+
+---
+
+Built by [Jeff Thoensen](https://jeffthoensen.com), a Context-Driven QA Engineer focused on automation, API testing, and exploratory testing.
